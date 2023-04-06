@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script type="text/javascript">
+    document.getElementById("myButton").onclick = function () {
+        location.href = "https://localhost:7081";
+    };
+</script>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+</div>
+
+@model IEnumerable<MenuItem>
+
+<h2>Menu Items</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var menuItem in Model)
+        {
+            <tr>
+                <td>@menuItem.Title</td>
+                <td>@menuItem.Description</td>
+                <td>@menuItem.Price</td>
+                <td>
+                    @if (menuItem.ImageData != null && menuItem.ImageMimeType != null)
+                    {
+                        <img src="data:@menuItem.ImageMimeType;base64,@Convert.ToBase64String(menuItem.ImageData)"/>
+                    }
+                </td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id = menuItem.Id })</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = menuItem.Id })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+

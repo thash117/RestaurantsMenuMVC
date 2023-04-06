@@ -1,0 +1,86 @@
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\appsettings.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.staticwebassets.runtime.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.exe
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.deps.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.runtimeconfig.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Menu System.pdb
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.csproj.AssemblyReference.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.AssemblyInfoInputs.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.AssemblyInfo.cs
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.csproj.CoreCompileInputs.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.RazorAssemblyInfo.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.RazorAssemblyInfo.cs
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets\msbuild.Menu System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets\msbuild.build.Menu System.props
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Menu System.props
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Menu System.props
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\scopedcss\bundle\Menu System.styles.css
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\scopedcss\projectbundle\Menu System.bundle.scp.css
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.csproj.CopyComplete
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\refint\Menu System.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.pdb
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\Menu System.genruntimeconfig.cache
+C:\Users\Thasheel\Desktop\Menu System\Menu System\obj\Debug\net6.0\ref\Menu System.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Thasheel\Desktop\Menu System\Menu System\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
